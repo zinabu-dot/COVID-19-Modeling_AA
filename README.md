@@ -2,9 +2,10 @@
 
 - echo "# COVID-19-Modeling_AA" >> README.md
 
-run `git init`
+run 
+`git init`
 
-run `git add 'file name you want to add'`
+`git add 'file name you want to add'`
 
 run `git commit -m "first commit"`
 
